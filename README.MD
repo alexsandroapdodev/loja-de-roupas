@@ -1,2 +1,2 @@
-https://loja-de-roupas-nu-jade.vercel.app/
+https://loja-de-roupas-nu-jade.vercel.app
 
